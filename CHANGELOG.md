@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.0.0](https://www.github.com/netlify/netlify-plugin-nextjs/compare/v4.0.0-beta.3...v4.0.0) (2021-10-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @netlify/functions to ^0.8.0 ([#747](https://www.github.com/netlify/netlify-plugin-nextjs/issues/747)) ([2c87e30](https://www.github.com/netlify/netlify-plugin-nextjs/commit/2c87e307568a6547432bf6995b9427077561c74b))
+* exclude electron by default ([#746](https://www.github.com/netlify/netlify-plugin-nextjs/issues/746)) ([887b90a](https://www.github.com/netlify/netlify-plugin-nextjs/commit/887b90a8f6cc63f3e44c6bc85888eb4d609d9ee4))
+
 ## [4.0.0-beta.3](https://www.github.com/netlify/netlify-plugin-nextjs/compare/v4.0.0-beta.2...v4.0.0-beta.3) (2021-10-26)
 
 
